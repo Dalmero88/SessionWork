@@ -1,0 +1,2 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+Run200_Wave_0_1.txt filter=lfs diff=lfs merge=lfs -text
